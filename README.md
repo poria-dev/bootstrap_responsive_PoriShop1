@@ -1,68 +1,94 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Shopping%20Bags.png" alt="Shopping Bags" width="40" height="40" /> PoriShop1 | Premium Bootstrap Responsive Showcase
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Shopping%20Bags.png" alt="Shopping Bags" width="40" height="40" /> PoriShop1 | Modern E-Commerce Platform
 
-A high-end, pixel-perfect e-commerce storefront web application built using modern layout architectures and advanced front-end principles. This project serves as a comprehensive masterclass in leveraging Bootstrap v5 for building seamless, liquid-fluid user experiences across every modern device tier.
+A premium, next-generation storefront web application meticulously engineered for maximum visual impact and seamless liquidity across all screen dimensions.
 
 ---
 
-## 🌐 Live Deployment Overview
+## ⚡ Powerhouse Tech Stack & Capabilities
 
 <div align="center">
-  <table style="border: 2px solid #0d6efd; border-radius: 12px; background: #0d1117; padding: 20px; width: 100%; max-width: 650px;">
-    <tr>
-      <td align="center">
-        <br />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="60" />
-        <h3 style="color: #0d6efd; margin-top: 10px; font-family: sans-serif;">Experience PoriShop1 Live</h3>
-        <p style="color: #8b949e; font-size: 14px; max-width: 480px;">
-          Interact with the fully dynamic layout shifts, component mechanics, and optimized fluid grid system right inside your browser.
-        </p>
-        <br />
-        <a href="https://poria-dev.github.io/bootstrap_responsive_PoriShop1/" target="_blank" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/LAUNCH%20LIVE%20STORE-🚀-0d6efd?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Launch Live Demo" height="45" style="border-radius: 6px; box-shadow: 0px 0px 15px rgba(13, 110, 253, 0.6);" />
-        </a>
-        <br /><br />
-        <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=2ea44f&up_message=online&url=https%3A%2F%2Fporia-dev.github.io%2Fbootstrap_responsive_PoriShop1%2F" alt="Website Status" />
-        &nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Deployment-GitHub%20Pages-blue?style=flat&logo=githubpages&logoColor=white" alt="Deployment" />
-        <br /><br />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+<br />
+
+> [!🚀]
+> ### 🔥 CORE ARCHITECTURE FOCUS
+> This web application is exclusively built using HTML5, CSS3, and BOOTSTRAP 5. It features a 100% FULLY RESPONSIVE & MOBILE-FIRST DESIGN powered by dynamic liquid fluid grid layouts, making it absolutely flawless on any desktop, tablet, or smartphone device.
+
+---
+
+## 🌐 Live Storefront Demo
+
+<div align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="100" />
+  </p>
+  
+  ## ✨ CLICK BELOW TO EXPLORE THE LIVE APP ✨
+  
+  <a href="https://poria-dev.github.io/bootstrap_responsive_PoriShop1/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/⚡%20LAUNCH%20PORISHOP1%20LIVE%20DEMO%20⚡-🚀-0d6efd?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Launch Live Demo" height="60" style="border-radius: 12px; box-shadow: 0px 0px 30px rgba(13, 110, 253, 0.8); border: 2px solid #ffffff;" />
+  </a>
+
+  <br /><br />
+  
+  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=2ea44f&up_message=online&url=https%3A%2F%2Fporia-dev.github.io%2Fbootstrap_responsive_PoriShop1%2F" alt="Website Status" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hosted_On-GitHub%20Pages-blue?style=flat-square&logo=githubpages&logoColor=white" alt="Deployment" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Layout-Full__Responsive-success?style=flat-square&logo=responsive&logoColor=white" alt="Responsive" />
 </div>
 
 ---
 
-## ⚡ Core Features & Tech Architecture
-
-* 📱 Ultra-Responsive Fluidity: 100% responsive architecture engineered with Bootstrap’s mobile-first Flexbox grid framework (xs, sm, md, lg, xl, xxl break-points).
-* 🎨 Modern UI Components: Crafted with modular Bootstrap cards, dynamic carousels, responsive navigation layouts, interactive modals, and elegant utility-first hover states.
-* ⚡ Optimized Clean Source: Semantically constructed HTML5 syntax combined with optimized structural custom CSS overlays for custom theme injection.
-
----
-
-## 📸 Interface & Responsive Previews
-
-Explore the desktop, tablet, and mobile interface alignments through the live preview captures:
+## 📸 Responsive Layout Screenshots
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./screen/shat1.png" alt="PoriShop1 Preview 1" style="max-width:100%; border-radius: 8px; border: 1px solid #30363d;" />
-      <br /><sub><b>Preview 01 - Hero & Main Showcase</b></sub>
+      <img src="./screen/shat1.png" alt="PoriShop1 Preview 1" style="max-width:100%; border-radius: 10px; border: 2px solid #30363d;" />
     </td>
     <td width="50%" align="center">
-      <img src="./screen/shat2.png" alt="PoriShop1 Preview 2" style="max-width:100%; border-radius: 8px; border: 1px solid #30363d;" />
-      <br /><sub><b>Preview 02 - Product Catalogue Grid</b></sub>
+      <img src="./screen/shat2.png" alt="PoriShop1 Preview 2" style="max-width:100%; border-radius: 10px; border: 2px solid #30363d;" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./screen/shat3.png" alt="PoriShop1 Preview 3" style="max-width:100%; border-radius: 8px; border: 1px solid #30363d;" />
-      <br /><sub><b>Preview 03 - UI Component Mechanics</b></sub>
+      <img src="./screen/shat3.png" alt="PoriShop1 Preview 3" style="max-width:100%; border-radius: 10px; border: 2px solid #30363d;" />
     </td>
-    <td width="50%" align="center">
-      <img src="./screen/shat4.png" alt="PoriShop1 Preview 4" style="max-width:100%; border-radius: 8px; border: 1px solid #30363d;" />
-      <br /><sub><b>Preview 04 - Footer & Promotional Alignment</b></sub>
-    </td>
+    
   </tr>
 </table>
+
+---
+
+## 🛠️ Built With
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/html5.svg" alt="HTML5" width="45" height="45" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/bootstrap.svg" alt="Bootstrap" width="45" height="45" />
+  </a>
+  &nbsp; &nbsp;
+ 
+</p>
+
+* 🌐 HTML5 – Modern Core Layout Syntax
+* ⚡ Bootstrap 5 – Dynamic Grid System & Mobile-First Component Library
+* 🎨 CSS3 – Advanced Layout Polish & Fine-Tuned Custom Utility Overlays
+
+---
+
+## ⚙️ Local Installation & Setup
+
+To explore the source code locally on your machine, follow these steps:
+
+1. Clone the repository:
+`bash
+   git clone [https://github.com/Pooria-dev/bootstrap_responsive_PoriShop1.git](https://github.com/Pooria-dev/bootstrap_responsive_PoriShop1.git)
