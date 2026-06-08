@@ -2,6 +2,7 @@
 
 A premium, next-generation storefront web application meticulously engineered for maximum visual impact and seamless liquidity across all screen dimensions.
 
+
 ---
 
 ## ⚡ Powerhouse Tech Stack & Capabilities
